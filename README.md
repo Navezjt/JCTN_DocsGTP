@@ -12,7 +12,7 @@ Check out the tutorial below:
 
 ## How to Use
 
-1. To use the app, navigate to the [JCTN_DocsGTP.ipynb](https://github.com/Navezjt/JCTN_DocsGTP/blob/main/run_query.ipynb) notebook in the repository.
+1. To use the app, navigate to the [JCTN_DocsGTP.ipynb](https://github.com/Navezjt/JCTN_DocsGTP/blob/main/JCTN_DocsGTP.ipynb) notebook in the repository.
 2. Click on the "Open in Colab" button to open the notebook in Google Colab using this [link](https://colab.research.google.com/github/Navezjt/JCTN_DocsGTP/blob/main/run_query.ipynb).
 3. Run the cells in the notebook.
 4. When prompted, click on "Connect to Google Drive" and select your Google account. Click "Allow" to permit access to your Google Drive. This will mount your Google Drive in Google Colab.
